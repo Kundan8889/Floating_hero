@@ -1,6 +1,5 @@
 
-<img width="1916" height="890" alt="image" src="https://github.com/user-attachments/assets/e298a312-d201-4832-8c16-eba8d610b565" />
-
+<img width="1917" height="952" alt="image" src="https://github.com/user-attachments/assets/ed46960b-805f-4718-bf73-47fd2bc2a079" />
 
 🚀 Floating Hero Section (Next.js + Tailwind)
 
