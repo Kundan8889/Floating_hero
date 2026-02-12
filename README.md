@@ -1,40 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 <img width="1916" height="890" alt="image" src="https://github.com/user-attachments/assets/e298a312-d201-4832-8c16-eba8d610b565" />
 
 
+🚀 Floating Hero Section (Next.js + Tailwind)
 
-## Getting Started
+A responsive hero section built with Next.js 14, TypeScript, and Tailwind CSS featuring floating animated cards with rotation and layered background elements.
 
-First, run the development server:
+✨ Features
 
-```bash
+Modern UI Hero Layout
+
+Floating Rotated Cards
+
+Reusable FloatingCard Component
+
+Responsive (Desktop + Mobile)
+
+Clean Tailwind Utility Styling
+
+Shadow & Depth Effects
+
+Component-based structure
+
+🛠️ Tech Stack
+
+Next.js 14 (App Router)
+
+TypeScript
+
+Tailwind CSS
+
+Lucide Icons
+
+📂 Project Structure
+app/
+ ├─ page.tsx
+ ├─ globals.css
+components/
+ ├─ Hero.tsx
+ ├─ FloatingCard.tsx
+public/
+ ├─ avatar.png
+
+⚙️ Installation & Run
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+App runs on:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+http://localhost:3000
 
-## Learn More
+📱 Responsive Behavior
 
-To learn more about Next.js, take a look at the following resources:
+Desktop → Floating rotated layout
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Mobile → Stacked clean layout
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🎯 Objective
 
-## Deploy on Vercel
+The goal of this project was to recreate a modern SaaS-style hero section with layered UI elements and floating cards using reusable components.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+👨‍💻 Author
+
+Kundan
+
+
+
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
